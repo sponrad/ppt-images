@@ -5,6 +5,8 @@ powerpoint batch image import macro
 
 This is a powerpoint macro that will batch import a directory of images into your powerpoint presentation.
 
+You need to copy the code and place it into a macro inside your powerpoint file. Then run the macro.
+
 What it does
 Imports images in the directory of the file, three per slide. They images are resized and positioned within the slide. Images are not placed on the first slide (our title slide).
 
