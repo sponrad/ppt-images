@@ -15,3 +15,7 @@ Assumptions
 -there are enough slides already in the presentation
 
 Feel free to fork and adapt to your situation.
+
+Sources:
+http://www.pptfaq.com/FAQ00352_Batch_Insert_a_folder_full_of_pictures-_one_per_slide.htm
+various others for VB function references
